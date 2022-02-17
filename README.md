@@ -1,20 +1,6 @@
-# Fullstack TypeScript React-Redux + Express + Passport JWT Auth Example
+# About
 
-**Note** No tests :)
-
-A modern (and opinionated) full-stack example with TypeScript React (v16)+ Redux + React-Router, Express + Mongoose backend, featuring a todo list with authentication. Probably the basis of my projects from now on. Feel free to use.
-
-* ES6 + typescript linter, based mostly on Airbnb's typescript [guidelines](https://github.com/airbnb/javascript)
-* Typescript
-* Webpack
-* Authentication with JWT based on [this guide](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0)
-* SCSS based on Airbnb's [SCSS](https://github.com/airbnb/css) guidelines
-
-## About this Example
-
-Additional info about this configuration that you might want or want to change
-
-* Note that this example is configured to show everyone each todo that anyone makes
+Hi, this is a MERN boilerplate I'd compiled over time to quickly spin up a full stack app with auth, todos, a mongo DB, all that. I used to be a big fan of webpack managing the all-encompassed app (shared type), but have since preferred keeping the front-end and back-end separated and swappable. Perhaps I'll change this boiler to something more in that line at some point :)
 
 ### Technicalities
 
